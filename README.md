@@ -1,4 +1,4 @@
-My project is in forder named example. Ak, build, src in forder of multithreading.
+My project is in forder named example. Ak, build, src is forder of multithreading.
 
 Build & Install
 
